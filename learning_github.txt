@@ -1,0 +1,24 @@
+1. First try 
+
+Check Status			: git status
+see changes file		: git diff
+Created folder
+create new folder 		: mkdir nama_folder
+create path in new_folder 	: mkdir path\nama_folder
+				  mkdir -p path1\path2\nama_folder
+Created file
+file 				: git add nama_file
+				  git add nama_file.txt
+coment				  git commit -m "pesan_commit"
+
+menamplikan file dalam bentuk teks : notepad nama_file
+
+	
+
+
+
+
+
+
+
+
