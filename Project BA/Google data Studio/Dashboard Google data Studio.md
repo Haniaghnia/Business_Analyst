@@ -12,4 +12,4 @@ Creating a dashboard is important because it provides a quick overview of compan
 Created a dashboard of Brand Salicyl Sales data in one year with SQL in designing datamarts and making visualizations with Google data studio.
 
 ### Dashboard
-![]()
+![](https://github.com/Haniaghnia/Business_Analyst/blob/93660177f3f9429d909d52f39922cf474dc43475/Project%20BA/Google%20data%20Studio/Big%20data%20analyst.PNG)
