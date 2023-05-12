@@ -47,10 +47,11 @@ These tasks can be further broken down into smaller tasks and assigned to specif
 ##### 2.	Gather Requirements:
 Documentation is a critical part of project development. Ensuring projects are successful and meet the needs and expectations of stakeholders is also the foundation of all further project deliverables, describing what inputs and outputs are associated with each process function. The Business Requirements Document (BRD) is an essential step in the business analyst process for the project of analyzing a coffee shop's business development. The BRD contains a SWOT analysis of the project and how it fits into the big picture. Using BRD to outline the business needs and objectives for analyzing the coffee shop's business development for new products The project will focus on identifying which products have good sales performance, which product categories are sold the most, and which outlets have the best sales. Furthermore, this project will determine customer habits and profiles to develop an improvement strategy for sales.
 
-**IMPROVING NEW PRODUCT COFFEE SHOP
-AGILE BUSINESS REQUIREMENTS DOCUMENT**
+**IMPROVING NEW PRODUCT COFFEE SHOP AGILE BUSINESS REQUIREMENTS DOCUMENT**
 The components of the Business Requirements Document (BRD) using Agile methodology are listed below.
+
 ![](https://github.com/Haniaghnia/Business_Analyst/blob/3191ded675d6fd2a2348b58a9e37103620b6fed2/Project%20BA/Coffee%20Shop/Table%20BRD.PNG)
+
 [BRD](https://github.com/Haniaghnia/Business_Analyst/blob/24e1fa11de83d39aac8d61ffef49568fecded3dd/Project%20BA/Coffee%20Shop/BRD%20Coffee%20Shop.pdf)  
 
 
