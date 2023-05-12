@@ -62,10 +62,13 @@ The client has provided the backup sales database combination of fact as well as
 
 ###### 3.2 SQL queries for data analysis
 To start processing data, use PostgreSQL as one of the data analytics tools, to import datasets, and carry out cleaning and organizing processes. The cleaning process includes adjusting data type formats and removing duplicate data and nulls. I extracted the clean data to a new CSV and saved it. I document the entire cleaning process.
-Show SQL data manipulation 
+Show SQL data manipulation.
+
 [SQL data manipulation](https://github.com/Haniaghnia/Business_Analyst/blob/3191ded675d6fd2a2348b58a9e37103620b6fed2/Project%20BA/Coffee%20Shop/Data%20Manipulation.sql)
+
 Data modeling is used to organize and structure data in a way that is easy to understand. Involves identifying the data that needs to be captured, organizing the data into logical groups, and defining the relationships between the data. It is used to analyze the data requirements that are required for business processes.
 Start modeling using SQL to create the schema diagram. The primary keys of the dimension table are connected to the corresponding foreign key of the fact sales table on a one-to-many basis, as shown below.
+![](https://github.com/Haniaghnia/Business_Analyst/blob/4ef20e1a0772880dcb2ef868344f4df5ea80337e/Project%20BA/Coffee%20Shop/ERD.PNG)
 
 
 ##### 4.	Data Visualization
