@@ -4,7 +4,7 @@
 ## Divide this project into 5 parts. Dashboards, Data Visualization, Problem Solving with Analytics, Classification Models and Project Management.
 This Project Uses Advance Microsoft Excel Functions, SQL, Tableau, Google Data Studio, Power BI, and Python
 #### *You can take a look my Linkedin : [hani_aghnia](https://www.linkedin.com/in/haniaghnia/)*
-#### *Website Project: [Portfolio Analyst](https://projecthani.my.canva.site/portofolio-analyst-haniaghnia)
+#### *Website Project: [Portfolio Analyst](https://projecthani.my.canva.site/portofolio-analyst)
 
 ## Dashboards
 
