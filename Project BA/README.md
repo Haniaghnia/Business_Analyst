@@ -49,7 +49,7 @@ The goal is to answer the right questions that will help the company to make the
 
 *"Data analytics helps solve problems before they happen, points the way to systemic solutions, and brings value to businesses by solving problems and providing insights"*
 
-### [Credit Risk Analysis and Portfolio Management]([https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Power%20BI/DE/Project%20DE.md](https://github.com/Haniaghnia/Business_Analyst/blob/d1bbfd715f51ca59953e9c61417e0ba17a42d07c/Project%20BA/Power%20BI/Credit%20Card/Credit%20card.md)
+### [Credit Risk Analysis and Portfolio Management](https://github.com/Haniaghnia/Business_Analyst/blob/d1bbfd715f51ca59953e9c61417e0ba17a42d07c/Project%20BA/Power%20BI/Credit%20Card/Credit%20card.md)
 * Analyzing Bank  BTPN credit card customer database, see the risks that will arise, and how preventive actions can be taken. 
 * Using a methodology with seven steps to solve the problem Identify the business objectives, Define the problem statement and goals of the analysis, Exploratory Data Analysis (EDA), Analyze the data, Draw a conclusion and develop a portfolio management plan.
 * With the data that is owned, it performs data processing based on business objectives, data exploration and generates insights for the company.
