@@ -18,9 +18,9 @@ Dashboard for managing, sharing, and gauging the KPIs that evaluate progress on 
 * Dashboard for managing, sharing, and gauging the KPIs that evaluate progress on any goal, either short or long-term. Present data in a clear way that aids in making decisions.
 * Dashboards below using advanced excel, pivot, and slicer pivot. Focusing on sales and profit performance of the product and region.
 
-### [Dashboard using SQL and Google data Studio]
+### [Dashboard using SQL and Google data Studio](https://github.com/Haniaghnia/Business_Analyst/blob/d1bbfd715f51ca59953e9c61417e0ba17a42d07c/Project%20BA/Google%20data%20Studio/Dashboard%20Google%20data%20Studio.md)
 ![](https://github.com/Haniaghnia/Business_Analyst/blob/d1bbfd715f51ca59953e9c61417e0ba17a42d07c/Project%20BA/Google%20data%20Studio/Big%20data%20analyst.PNG)
-(https://github.com/Haniaghnia/Business_Analyst/blob/d1bbfd715f51ca59953e9c61417e0ba17a42d07c/Project%20BA/Google%20data%20Studio/Dashboard%20Google%20data%20Studio.md)
+
 Design of dashboards to provide a quick overview of company performance and help manage companies to be able to make decisions quickly, by providing accurate and up-to-date data, and analyzing data to determine important trends and patterns to display on the dashboard.
 
 
@@ -59,7 +59,7 @@ The goal is to answer the right questions that will help the company to make the
 ## Classification Models
 *"Use classification models to predict customer behavior, identify fraud, and improve customer segmentation. An algorithm, probability estimation, or statistical model to draw conclusions and make the right decisions"*
 
-### [Customer Lifetime Value Prediction]([https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Data%20Science/Machine%20Learning/RFM/Customer%20lifetime%20value.md](https://github.com/Haniaghnia/Business_Analyst/blob/d1bbfd715f51ca59953e9c61417e0ba17a42d07c/Project%20BA/Python/Customer%20Lifetime%20Value%20Prediction/Customer%20Lifetime%20Value%20Prediction.md)
+### [Customer Lifetime Value Prediction](https://github.com/Haniaghnia/Business_Analyst/blob/d1bbfd715f51ca59953e9c61417e0ba17a42d07c/Project%20BA/Python/Customer%20Lifetime%20Value%20Prediction/Customer%20Lifetime%20Value%20Prediction.md)
 
 Customer lifetime value predicts how much revenue a customer can bring to the business, improve retention, allocate the right resources, and make informed decisions about marketing and sales strategies.
 
@@ -81,20 +81,5 @@ Customer lifetime value predicts how much revenue a customer can bring to the bu
 * Analyze Coffee Shop's business development, especially for new products, and how to improve the new products. The data is processed using SQL queries to explore the data, and using Tableau for visualization.
 * There are many ways to perform EDA, one of which is by conducting Univariate, BI variate and multivariate analysis. Furthermore, it is sharpened by sales analysis to    create a Product Drill Down visualization which aims to find out which products have good sales performance, whenever the product is purchased a lot, which product categories are sold the most and at which outlets are the best sales.
 * Customer habits and customer profiles are important factors in determining the improvement strategy for sales. In this section we look at the gender, loyalty, and age range of customers who are more likely to try new products. Monitoring customer behavior to find out when we should recommend new products and to what kind of customers for product offerings.
-
-
-
-
-## Data Analytics
-
-*"Making predictions to  increase efficiency and improve performance by discovering patterns in data"*
- 
-Helps a business optimize performance, perform more efficiently, maximize profit, or make more strategically-guided decisions.  Use an algorithm, probability estimation, or statistical model to draw conclusions and make the right decisions.
- 
-
-
-
-## SQL
-
 
 
